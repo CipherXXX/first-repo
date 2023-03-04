@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Business.dll.config
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Business.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Business.pdb
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Consul.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Data.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\EntityFramework.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Data.pdb
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\Data.dll.config
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\EntityFramework.xml
+C:\Users\Student\source\repos\Catalog\Business\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Student\source\repos\Catalog\Business\obj\Release\Business.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Catalog\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Catalog\Business\obj\Release\Business.csproj.CopyComplete
+C:\Users\Student\source\repos\Catalog\Business\obj\Release\Business.dll
+C:\Users\Student\source\repos\Catalog\Business\obj\Release\Business.pdb

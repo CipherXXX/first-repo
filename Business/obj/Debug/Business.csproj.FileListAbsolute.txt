@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Business.dll.config
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Business.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Business.pdb
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Consul.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Data.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\EntityFramework.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Data.pdb
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\Data.dll.config
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\EntityFramework.xml
+C:\Users\Student\source\repos\Catalog\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\source\repos\Catalog\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Catalog\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Catalog\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Student\source\repos\Catalog\Business\obj\Debug\Business.dll
+C:\Users\Student\source\repos\Catalog\Business\obj\Debug\Business.pdb
